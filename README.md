@@ -21,6 +21,8 @@ game in terminal
 
 В игре есть также случайные события. Их два - либо на вас нападает зверь (в таком случае надо быстро, за 1 секунду успевать вводить 'w' или 'W'), либо вы находите ягоды. Вы можете их забрать написав 'yes' или пропустить, нажав Enter.
 
+Выберите сложность - лёгкую, среднюю или сложную.
+
 Всё, приятной игры!
 
 
@@ -47,5 +49,7 @@ There is a special biome — the village. It appears for only one step. That mea
 If you eat your boat (which is offered when you have no food left), you won’t be able to cross the sea later. That will lead to an interesting (or not so interesting) ending.
 
 There are also random events. Two types: either a wild animal attacks you (in which case you must quickly enter 'w' or 'W' within 1 second), or you find berries. You can type 'yes' to take them or just press Enter to skip.
+
+Choose the difficulty - medium, easy or hard.
 
 That’s it — enjoy the game!
